@@ -1,2 +1,3 @@
 # Natnael-Teshome
-simple c++ project 
+simple c++ project Super Market Managment System 
+
